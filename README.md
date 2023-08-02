@@ -1,5 +1,19 @@
 # ColourFilters
 
+## Adaptive Gamma Correction
+
+## Camera ColorSpaces
+ 
+## Canny Algorithm
+
+## Filter Effects on Video
+
+## Grey World Algorithm
+
+## RealTime_RGB_Filter_Analysis
+
+## RGB Filters 
+
 ## 1 white_balance_algorithm.m 
 
 This script captures 100 frames from a Full HD webcam, performs an automatic white balance on each frame, and then displays the original and balanced images in real time.
