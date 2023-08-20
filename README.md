@@ -1,7 +1,6 @@
 # ColourFilters
 
 ## Adaptive Gamma Correction
-![alttext](https://github.com/ayushkale1909/ColourFilters/blob/main/Adaptive%20Gamma%20Correction/Adaptive_Gamma_Correction.mp4)
 
 ## Camera ColorSpaces
  
